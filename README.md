@@ -1,2 +1,1 @@
-# gm.bedwars
-Gamemode : BedWars
+# Repository for the Gamemode BedWars
