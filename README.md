@@ -1,0 +1,2 @@
+# gm.bedwars
+Gamemode : BedWars
